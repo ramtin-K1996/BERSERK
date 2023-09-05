@@ -19,7 +19,15 @@ const box2= document.querySelector('.box2')
 
 const image1 = 'url("images/background4.png")'
 const image2 = 'url("images/guts4k.jpeg")';
-const image3 = 'url("images/zodd2.jpeg")';
+let image3;
+
+if (window.innerWidth <= 500) {
+    image3 = 'url("images/4.gif")';
+} else {
+    image3 = 'url("images/zodd2.jpeg")';
+}
+
+
 let currentimage=image1;
 const originalBox1Display = window.getComputedStyle(box1).display;
 
