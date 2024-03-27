@@ -1,7 +1,7 @@
 <h2 align="center"> BERSERK-Project </h2> 
 <br> 
 
-**View site:** https://ramtin-k1996.github.io/BERSERK-FlexBoxProject/
+**View site:** https://ramtin-k1996.github.io/BERSERK/
 <br> <br>
 <h2 align="center"> DESKTOP </h2> 
 
